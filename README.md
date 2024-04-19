@@ -1,2 +1,2 @@
-# Run
-## Kotlin / Android Studio
+# Run:
+* Kotlin / Android Studio
